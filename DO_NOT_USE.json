@@ -1,0 +1,142 @@
+{
+    "name": "Blanco",
+    "description": "Do not use this unless you want your Vendetta to become a handy flashlight.",
+    "authors": [
+        {
+            "name": "powermaker450)",
+            "id": "957020359913400367"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "HEADER_SECONDARY": [
+            "#FFFFFF"
+        ],
+        "TEXT_NORMAL": [
+            "#FFFFFF"
+        ],
+        "TEXT_MUTED": [
+            "#FFFFFF"
+        ],
+        "TEXT_DANGER": [
+            "#FFFFFF"
+        ],
+        "TEXT_LINK": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FFFFFF"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#FFFFFF"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#FFFFFF"
+        ],
+        "KEYBOARD": [
+            "#FFFFFF"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#FFFFFF"
+        ],
+        "CHANNEL_ICON": [
+            "#FFFFFF"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#FFFFFF"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#FFFFFF",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#FFFFFF",
+        "PRIMARY_360": "#FFFFFF",
+        "PRIMARY_400": "#FFFFFF",
+        "PRIMARY_500": "#FFFFFF",
+        "PRIMARY_600": "#FFFFFF",
+        "PRIMARY_630": "#FFFFFF",
+        "PRIMARY_660": "#FFFFFF",
+        "PRIMARY_700": "#FFFFFF",
+        "PRIMARY_800": "#FFFFFF",
+        "PRIMARY_900": "#FFFFFF",
+        "YELLOW_300": "#FFFFFF",
+        "BRAND_260": "#FFFFFF",
+        "BRAND_360": "#FFFFFF",
+        "BRAND_500": "#FFFFFF",
+        "BRAND_560": "#FFFFFF",
+        "GREEN_360": "#FFFFFF",
+        "RED_400": "#FFFFFF",
+        "ORANGE_345": "#FFFFFF",
+        "RED_560": "#FFFFFF",
+        "GREEN_345": "#FFFFFF",
+        "BLUE_345": "#FFFFFF",
+        "WHITE_500": "#FFFFFF"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 0.67
+  },
+    "spec": 2
+}
