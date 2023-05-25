@@ -9,7 +9,7 @@
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#14072A"
+            "#A286E8"
         ],
         "HEADER_SECONDARY": [
             "#8B00FD"
@@ -60,7 +60,7 @@
             "#1A0039"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#B79CFF"
+            "#40286E"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#52009B"
