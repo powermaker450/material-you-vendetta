@@ -1,0 +1,142 @@
+{
+    "name": "MaroonSkies (Modified)",
+    "description": "Orange colored theme for Vendetta",
+    "authors": [
+        {
+            "name": "Ari (modified by powermaker450)",
+            "id": "000000000000000000"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#D19D81"
+        ],
+        "HEADER_SECONDARY": [
+            "#FA5F00"
+        ],
+        "TEXT_NORMAL": [
+            "#D19D81"
+        ],
+        "TEXT_MUTED": [
+            "#9E3A00"
+        ],
+        "TEXT_DANGER": [
+            "#E70081"
+        ],
+        "TEXT_LINK": [
+            "#FF8347"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF8347"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#DCDDDE"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#FF8347"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#DCDDDE"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#160500"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2D0E00"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2D0E00"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#160500"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FF8347"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#160500"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#160500"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2D0E00"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2D0E00"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "rgba(209, 157, 129, 0.02)"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(209, 157, 129, 0.02)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "rgba(209, 157, 129, 0.04)"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#471a33"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#2e1121"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "#2e1121"
+        ],
+        "KEYBOARD": [
+            "#2e1121"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#fcdcee"
+        ],
+        "CHANNEL_ICON": [
+            "#FF8347"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#9e8593"
+        ],
+        "CHAT_BACKGROUND": [
+            "#2e1121"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY": "#747474",
+        "PRIMARY_100": "#D19D81",
+        "PRIMARY_200": "#D19D81",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#FF8347",
+        "PRIMARY_500": "#FF8347",
+        "PRIMARY_600": "#160500",
+        "PRIMARY_630": "#2e1121",
+        "PRIMARY_660": "#2e1121",
+        "PRIMARY_700": "#160500",
+        "PRIMARY_800": "#160500",
+        "PRIMARY_900": "#2e1121",
+        "YELLOW_300": "#d92789",
+        "BRAND_260": "#FF8347",
+        "BRAND_360": "#FF8347",
+        "BRAND_500": "#FF8347",
+        "BRAND_560": "#f075b9",
+        "GREEN_360": "#FF8347",
+        "RED_400": "#FA5F00",
+        "ORANGE_345": "#FF8347",
+        "RED_560": "#FF8347",
+        "GREEN_345": "#FF8347",
+        "BLUE_345": "#FF8347",
+        "WHITE_500": "#FFE4D4"
+       
+    },
+  "background": {
+    "blur": 0,
+    "url": "",
+    "alpha": 0.67
+  },
+    "spec": 2
+}
