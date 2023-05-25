@@ -48,7 +48,7 @@
             "#52009B"
         ],
         "BACKGROUND_TERTIARY": [
-            "#1A0039"
+            "#130E21"
         ],
         "BACKGROUND_ACCENT": [
             "#402C68"
@@ -57,7 +57,7 @@
             "#573E8A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#FFFFFF"
+            "#130E21"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
             "#40286E"
@@ -102,7 +102,7 @@
             "#000000"
         ],
         "CHAT_BACKGROUND": [
-            "#1A0039"
+            "#573E8A"
         ]
     },
     "rawColors": {
