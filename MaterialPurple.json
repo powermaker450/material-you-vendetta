@@ -1,136 +1,136 @@
 {
-    "name": "Blanco",
-    "description": "Do not use this unless you want your Vendetta to become a handy flashlight.",
+    "name": "Purple",
+    "description": "Material You Purple",
     "authors": [
         {
-            "name": "powermaker450)",
-            "id": "957020359913400367"
+            "name": "powermaker450",
+            "id": "957020359913400370"
         }
     ],
     "semanticColors": {
         "HEADER_PRIMARY": [
-            "#FFFFFF"
+            "#14072A"
         ],
         "HEADER_SECONDARY": [
-            "#FFFFFF"
+            "#8B00FD"
         ],
         "TEXT_NORMAL": [
-            "#FFFFFF"
+            "#B79CFF"
         ],
         "TEXT_MUTED": [
-            "#FFFFFF"
+            "#37006B"
         ],
         "TEXT_DANGER": [
-            "#FFFFFF"
+            "#EA0083"
         ],
         "TEXT_LINK": [
-            "#FFFFFF"
+            "#8B00FD"
         ],
         "INTERACTIVE_NORMAL": [
-            "#FFFFFF"
+            "#A286E8"
         ],
         "INTERACTIVE_HOVER": [
-            "#FFFFFF"
+            "#DCDDDE"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#FFFFFF"
+            "#A286E8"
         ],
         "INTERACTIVE_MUTED": [
-            "#FFFFFF"
+            "#DCDDDE"
         ],
         "BACKGROUND_PRIMARY": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_SECONDARY": [
-            "#FFFFFF"
+            "#52009B"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#FFFFFF"
+            "#52009B"
         ],
         "BACKGROUND_TERTIARY": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_ACCENT": [
-            "#FFFFFF"
+            "#A286E8"
         ],
         "BACKGROUND_FLOATING": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#FFFFFF"
+            "#52009B"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#FFFFFF"
+            "#52009B"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
-            "#FFFFFF"
+            "rgba(209, 157, 129, 0.02)"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#FFFFFF"
+            "rgba(209, 157, 129, 0.02)"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#FFFFFF"
+            "rgba(209, 157, 129, 0.04)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#FFFFFF"
+            "transparent"
         ],
         "SCROLLBAR_THIN_THUMB": [
-            "#FFFFFF"
+            "#471a33"
         ],
         "SCROLLBAR_THIN_TRACK": [
-            "#FFFFFF"
+            "transparent"
         ],
         "SCROLLBAR_AUTO_THUMB": [
-            "#FFFFFF"
+            "#200301"
         ],
         "SCROLLBAR_AUTO_TRACK": [
-            "#FFFFFF"
+            "#200301"
         ],
         "KEYBOARD": [
-            "#FFFFFF"
+            "#300200"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
-            "#FFFFFF"
+            "#fcdcee"
         ],
         "CHANNEL_ICON": [
-            "#FFFFFF"
+            "#A286E8"
         ],
         "CHANNELS_DEFAULT": [
-            "#FFFFFF"
+            "#A24135"
         ],
         "CHAT_BACKGROUND": [
-            "#FFFFFF"
+            "#000000"
         ]
     },
     "rawColors": {
-        "PRIMARY": "#FFFFFF",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#FFFFFF",
-        "PRIMARY_360": "#FFFFFF",
-        "PRIMARY_400": "#FFFFFF",
-        "PRIMARY_500": "#FFFFFF",
-        "PRIMARY_600": "#FFFFFF",
-        "PRIMARY_630": "#FFFFFF",
-        "PRIMARY_660": "#FFFFFF",
-        "PRIMARY_700": "#FFFFFF",
-        "PRIMARY_800": "#FFFFFF",
-        "PRIMARY_900": "#FFFFFF",
-        "YELLOW_300": "#FFFFFF",
-        "BRAND_260": "#FFFFFF",
-        "BRAND_360": "#FFFFFF",
-        "BRAND_500": "#FFFFFF",
-        "BRAND_560": "#FFFFFF",
-        "GREEN_360": "#FFFFFF",
-        "RED_400": "#FFFFFF",
-        "ORANGE_345": "#FFFFFF",
-        "RED_560": "#FFFFFF",
-        "GREEN_345": "#FFFFFF",
-        "BLUE_345": "#FFFFFF",
-        "WHITE_500": "#FFFFFF"
+        "PRIMARY": "#747474",
+        "PRIMARY_100": "#14072A",
+        "PRIMARY_200": "#14072A",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#A286E8",
+        "PRIMARY_500": "#A286E8",
+        "PRIMARY_600": "#1A0039",
+        "PRIMARY_630": "#200301",
+        "PRIMARY_660": "#200301",
+        "PRIMARY_700": "#1A0039",
+        "PRIMARY_800": "#1A0039",
+        "PRIMARY_900": "#200301",
+        "YELLOW_300": "#d92789",
+        "BRAND_260": "#A286E8",
+        "BRAND_360": "#A286E8",
+        "BRAND_500": "#A286E8",
+        "BRAND_560": "#f075b9",
+        "GREEN_360": "#A286E8",
+        "RED_400": "#8B00FD",
+        "ORANGE_345": "#A286E8",
+        "RED_560": "#A286E8",
+        "GREEN_345": "#A286E8",
+        "BLUE_345": "#A286E8",
+        "WHITE_500": "#FFE4D4"
        
     },
   "background": {
