@@ -39,7 +39,7 @@
             "#DCDDDE"
         ],
         "BACKGROUND_PRIMARY": [
-            "#1A0039"
+            "#573E8A"
         ],
         "BACKGROUND_SECONDARY": [
             "#52009B"
@@ -54,7 +54,7 @@
             "#402C68"
         ],
         "BACKGROUND_FLOATING": [
-            "#1A0039"
+            "#573E8A"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
             "#1A0039"
@@ -99,7 +99,7 @@
             "#A286E8"
         ],
         "CHANNELS_DEFAULT": [
-            "#A24135"
+            "#000000"
         ],
         "CHAT_BACKGROUND": [
             "#1A0039"
@@ -123,9 +123,9 @@
         "BRAND_260": "#A286E8",
         "BRAND_360": "#D7CCFF",
         "BRAND_500": "#A286E8",
-        "BRAND_560": "#f075b9",
+        "BRAND_560": "#FF3D96",
         "GREEN_360": "#A286E8",
-        "RED_400": "#8B00FD",
+        "RED_400": "#FF3D96",
         "ORANGE_345": "#A286E8",
         "RED_560": "#A286E8",
         "GREEN_345": "#A286E8",
