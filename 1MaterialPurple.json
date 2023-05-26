@@ -60,7 +60,7 @@
             "#130E21"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1A0039"
+            "#FFFFFF"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#52009B"
@@ -108,7 +108,7 @@
     "rawColors": {
         "PRIMARY": "#747474",
         "PRIMARY_100": "#BDA6FF",
-        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_200": "#14072A",
         "PRIMARY_300": "#B6B6B6",
         "PRIMARY_360": "#D7CCFF",
         "PRIMARY_400": "#A286E8",
