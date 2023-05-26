@@ -90,7 +90,7 @@
             "#200301"
         ],
         "KEYBOARD": [
-            "#300200"
+            "#FFFFFF"
         ],
         "CHANNELTEXTAREA_BACKGROUND": [
             "#fcdcee"
@@ -119,7 +119,7 @@
         "PRIMARY_700": "#1A0039",
         "PRIMARY_800": "#1A0039",
         "PRIMARY_900": "#200301",
-        "YELLOW_300": "#FFFFFF",
+        "YELLOW_300": "#C9B9FF",
         "BRAND_260": "#A286E8",
         "BRAND_360": "#D7CCFF",
         "BRAND_500": "#A286E8",
