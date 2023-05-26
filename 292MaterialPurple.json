@@ -18,7 +18,7 @@
             "#B79CFF"
         ],
         "TEXT_MUTED": [
-            "#FFFFFF"
+            "#554B75"
         ],
         "TEXT_DANGER": [
             "#EA0083"
@@ -60,7 +60,7 @@
             "#130E21"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_NESTED_FLOATING": [
             "#52009B"
