@@ -18,7 +18,7 @@
             "#B79CFF"
         ],
         "TEXT_MUTED": [
-            "#37006B"
+            "#FFFFFF"
         ],
         "TEXT_DANGER": [
             "#EA0083"
@@ -51,7 +51,7 @@
             "#130E21"
         ],
         "BACKGROUND_ACCENT": [
-            "#FFFFFF"
+            "#1A0039"
         ],
         "BACKGROUND_FLOATING": [
             "#573E8A"
