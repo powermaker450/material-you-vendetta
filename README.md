@@ -11,6 +11,6 @@ Yes.
 
 If you tell me exactly what to change and what to change it to.
 
-## THANK YOU
+## "THANK YOU!!! THESE THEMES ARE SUPER AWESOME!!!"
 
-No problem.
+No problem. Glad you like it.
