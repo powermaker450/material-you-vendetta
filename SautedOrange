@@ -1,0 +1,157 @@
+{
+    "name": "Material You Orange",
+    "description": "I don't know how to code I just edited a sample file",
+    "authors": [
+        {
+            "name": "powermaker450",
+            "id": ""
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#D19D81",
+            "#060607"
+        ],
+        "HEADER_SECONDARY": [
+            "#D19D81",
+            "#4f5660"
+        ],
+        "TEXT_NORMAL": [
+            "#D19D81",
+            "#2e3338"
+        ],
+        "TEXT_MUTED": [
+            "#9E3A00",
+            "#747f8d"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#FF8347",
+            "#4f5660"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dcddde",
+            "#2e3338"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#D19D81",
+            "#060607"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#555555",
+            "#c7ccd1"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#160500",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#2D0E00",
+            "#f2f3f5"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#2D0E00",
+            "#ebedef"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#160500",
+            "#e3e5e8"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#FF8347",
+            "#747f8d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#160500",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#160500",
+            "#f8f9f9"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#2D0E00",
+            "#ffffff"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#2D0E00",
+            "#ffffff"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "rgba(209, 157, 129, 0.02)",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(209, 157, 129, 0.02)",
+            "hsla(214, 9.9%, 50.4%, 0.08)"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "rgba(209, 157, 129, 0.03)",
+            "hsla(214, 9.9%, 50.4%, 0.16)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "rgba(209, 157, 129, 0.04)",
+            "hsla(214, 9.9%, 50.4%, 0.24)"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent",
+            "hsla(240, 7.7%, 2.5%, 0.08)"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#2a1858",
+            "hsla(217, 7.6%, 33.5%, 0.3)"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "hsla(0, 0%, 0%, 0)"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#2a1858",
+            "#cccccc"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.1)",
+            "#f2f2f2"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#D19D81",
+            "#ebedef"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#D19D81",
+            "#6a7480"
+        ],
+        "TEXT_LINK": [
+            "#CE4E00",
+            "#000000"
+        ],
+        "KEYBOARD": [
+            "#2D0E00",
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#160500",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#FF8347",
+        "PRIMARY_100": "#D19D81",
+        "PRIMARY_200": "#D19D81",
+        "PRIMARY_300": "#B6B6B6",
+        "PRIMARY_360": "#C8C8C8",
+        "PRIMARY_400": "#bebee3",
+        "PRIMARY_600": "#160500",
+        "PRIMARY_630": "#1a1b21",
+        "PRIMARY_700": "#160500",
+        "PRIMARY_800": "#151515",
+        "BRAND_500": "#555555",
+        "RED_500": "#FF8347",
+        "GREEN_600": "#FF8347"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "",
+        "alpha": 1
+    },
+    "spec": 2
+}
